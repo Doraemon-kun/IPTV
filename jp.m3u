@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Doraemon-kun/IPTV/main/guide.xml" tvg-shift=0 m3uautoload=1
 
 #BIG THANKS AND SHOUTOUT TO LUONGZ ON GITHUB
@@ -42,11 +41,11 @@ https://tbs1.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="TokyoMX1.JP" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1 (rtmp) (540p)
 rtmp://188.166.232.74:1935/
 
-#EXTINF:-1 tvg-id="TokyoMX1.JP" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1 (Official Link) (360p)
-https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.JP" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX1 (Official Link) (720p)
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 
-#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX2 (Official Link) (360p)
-https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-name="Tokyo MX2" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="KANTO",Tokyo MX2 (Official Link) (720p)
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 
 
 #EXTINF:-1 tvg-id="ASH.JP" tvg-name="TV Asahi" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="KANTO",TV Asahi (iHome Link) (720p)
